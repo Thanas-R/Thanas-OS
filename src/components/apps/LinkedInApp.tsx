@@ -102,7 +102,7 @@ const A = ({
                   >Contact info</button>
                 </div>
 
-                <div className="text-[13px] font-semibold mt-2" style={{ color: t.link }}>105 connections</div>
+                <div className="text-[13px] font-semibold mt-2" style={{ color: t.link }}>132 connections</div>
               </div>
 
              <div className="flex flex-col items-end gap-4 shrink-0 pt-1 translate-x-4">
@@ -163,7 +163,7 @@ const A = ({
           <div className="p-5">
             <div className="flex items-baseline justify-between">
               <h2 className="text-[20px] font-semibold">Activity</h2>
-              <div className="text-[13px] font-semibold" style={{ color: t.link }}>108 followers</div>
+              <div className="text-[13px] font-semibold" style={{ color: t.link }}>140 followers</div>
             </div>
             <div className="mt-4 rounded-lg border p-4" style={{ borderColor: t.divider }}>
               <div className="flex items-start gap-3">
