@@ -144,7 +144,7 @@ export const GitHubApp = () => {
             <div className="flex items-center gap-2"><MapPin className="w-4 h-4" /> Bengaluru</div>
             <div className="flex items-center gap-2">
               <LinkIcon className="w-4 h-4" />
-              <a className="hover:underline" style={{ color: text }} href="https://thanas.vercel.app" target="_blank" rel="noreferrer">thanas.vercel.app</a>
+              <a className="hover:underline" style={{ color: text }} href="https://thanas.dev" target="_blank" rel="noreferrer">thanas.dev</a>
             </div>
             <div className="flex items-center gap-2">
   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
