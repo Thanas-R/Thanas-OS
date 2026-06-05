@@ -116,8 +116,8 @@ export const ContactApp = () => {
             />
             <Field
               label="portfolio"
-              value="thanas.vercel.app"
-              href="https://thanas.vercel.app"
+              value="thanas.dev"
+              href="https://thanas.dev"
               right={<PortfolioIcon className="w-5 h-5 text-yellow-400" />}
             />
           </GlassPanel>
